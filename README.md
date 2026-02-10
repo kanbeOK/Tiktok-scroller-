@@ -1,10 +1,11 @@
 # Tiktok-scroller
-#Using arduino uno and python to make a button that allows you to scroll tiktok and press like
-#Bước 1: Chuẩn bị đồ nghề
+# Using arduino uno and python to make a button that allows you to scroll tiktok and press like
+# Dựa vào Arduino và module joystick để làm 1 cái nút lướt tiktok
+# Bước 1: Chuẩn bị đồ nghề
 Phần cứng: Arduino Uno, Module Joystick, Dây cắm (5 sợi cái-đực), Cáp USB nối Arduino với máy tính, và 1 cái breadboard nếu bạn muốn cắm nó vào.
 Phần mềm: Arduino IDE, Visual Studio Code hoặc Python.
 
-#Bước 2: Đấu dây cho module joytick ( phần này quan trọng nhé) 
+# Bước 2: Đấu dây cho module joytick ( phần này quan trọng nhé) 
 Cắm dây từ Joystick vào Arduino Uno theo đúng bảng này:
 Chân Joystick Cắm vào Arduino Uno
 GND cắm vào GND
